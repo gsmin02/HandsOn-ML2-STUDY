@@ -1,1 +1,1 @@
-# HandsOn-ML2
+# HandsOn-ML2-STUDY
